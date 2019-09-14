@@ -1,0 +1,19 @@
+{
+  "name": "meetApp",
+  "version": "1.0.0",
+  "description": "challenge 2",
+  "main": "index.js",
+  "author": "Matheus Alves Albuquerque",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "sucrase": "^3.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "sucrase": "^3.10.1",
+    "prettier": "^1.18.2",
+    "eslint": "^6.2.1"
+  }
+}
